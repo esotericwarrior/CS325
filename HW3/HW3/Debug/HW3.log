@@ -1,0 +1,5 @@
+﻿  HW3.cpp
+e:\users\esoteric\documents\cs325\hw3\hw3\hw3.cpp(175): warning C4018: '<': signed/unsigned mismatch
+e:\users\esoteric\documents\cs325\hw3\hw3\hw3.cpp(194): error C2065: 's': undeclared identifier
+e:\users\esoteric\documents\cs325\hw3\hw3\hw3.cpp(208): warning C4018: '<': signed/unsigned mismatch
+e:\users\esoteric\documents\cs325\hw3\hw3\hw3.cpp(209): warning C4018: '<': signed/unsigned mismatch
