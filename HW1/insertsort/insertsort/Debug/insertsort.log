@@ -1,0 +1,4 @@
+﻿  insertsort.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+insertsort.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  insertsort.vcxproj -> C:\Users\Tristan\source\repos\insertsort\Debug\insertsort.exe

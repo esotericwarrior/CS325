@@ -1,0 +1,3 @@
+﻿  insertTime.cpp
+e:\users\esoteric\documents\cs325\hw1\inserttime\inserttime\inserttime\inserttime.cpp(23): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  insertTime.vcxproj -> E:\Users\Esoteric\Documents\CS325\HW1\insertTime\insertTime\Debug\insertTime.exe
